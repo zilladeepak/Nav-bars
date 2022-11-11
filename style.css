@@ -116,7 +116,7 @@ main{
 }
 
 .navbar:hover .logo svg{
-    transform: rotate(-540deg);
+    transform: rotate(-180deg);
 }
 
 
@@ -129,7 +129,7 @@ main{
     }
 
     .navbar:hover .link-text {
-        display: inline;
+        display: none;
         margin-left: 0.3rem;
     }
     .logo{
